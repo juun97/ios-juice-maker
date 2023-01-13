@@ -27,7 +27,7 @@ _요구사항_
 ## 팀원을 소개합니다👀
 무리 | 릴라 | 세홍
 --- | --- | ---
---- |<img width="200" alt="image" src=https://cdn.discordapp.com/attachments/1054218081787973662/1058207490296262665/KakaoTalk_Image_2022-12-23-11-04-10.png> | <img width="200" alt="image" src=https://i.imgur.com/Eu4tzfs.png> 
+<img width="200" alt="image" src=https://i.imgur.com/U7TmXby.jpg> |<img width="200" alt="image" src=https://cdn.discordapp.com/attachments/1054218081787973662/1058207490296262665/KakaoTalk_Image_2022-12-23-11-04-10.png> | <img width="200" alt="image" src=https://i.imgur.com/Eu4tzfs.png> 
 
 
 
