@@ -48,8 +48,6 @@
 <img width="200" alt="image" src=https://i.imgur.com/U7TmXby.jpg> |<img width="200" alt="image" src=https://cdn.discordapp.com/attachments/1054218081787973662/1058207490296262665/KakaoTalk_Image_2022-12-23-11-04-10.png> | <img width="200" alt="image" src=https://i.imgur.com/Eu4tzfs.png> 
 
 
-
-
 ## 타임라인 ⏰
 
 
@@ -65,12 +63,34 @@
 -----
 
 
-
-
-
-
-
-
+## 파일구조 🌲
+```
+JuiceMaker
+|
+├── Controller
+│   ├── AppDelegate.swift
+│   ├── EditStockViewController.swift
+│   ├── JuiceMaker.swift
+│   ├── NotificationName.swift
+│   ├── SceneDelegate.swift
+│   └── ViewController.swift
+├── Model
+│   ├── Fruit.swift
+│   ├── FruitStore.swift
+│   ├── Juice.swift
+│   ├── JuiceMakeError.swift
+│   └── JuiceMaker.swift
+└── View
+    ├── Assets.xcassets
+    │   ├── AccentColor.colorset
+    │   │   └── Contents.json
+    │   ├── AppIcon.appiconset
+    │   │   └── Contents.json
+    │   └── Contents.json
+    └── Base.lproj
+        ├── LaunchScreen.storyboard
+        └── Main.storyboard
+```
 
 
 ## 실행화면 🎬
@@ -99,10 +119,6 @@
 
 - 재고가 부족할 시 Alert 띄워주기
 - 예를 클릭시 재고수정 화면으로 이동하기
-
-
-
-
 
 
 ## STEP1 트러블슈팅 🚀
